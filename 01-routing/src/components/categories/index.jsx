@@ -1,6 +1,7 @@
 import Link from 'next/link'
 import React from 'react'
 import styles from './styles.module.css'
+
 const Categories = ({categories}) => {
   return (
     <div className={styles.categories}>
